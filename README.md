@@ -1,4 +1,3 @@
-<div style="text-align: center">
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bibek
 =============================================================================================================================
 
@@ -13,7 +12,7 @@ I am a programming fanatic who loves to explore new ways of thinking and creativ
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on Anything Data Science related
 * ⚡  I'm running uphill faster than Usain Bolt
-</div>
+
 -----------------
 ### Skills
 
