@@ -11,7 +11,7 @@ I am a programming fanatic who loves to explore new ways of thinking and creativ
 * ✉️  You can contact me at [Bibekbee72@gmail.com](mailto:Bibekbee72@gmail.com)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on Anything Data Science related
-* ⚡  I'm running uphill faster then Usain Bolt
+* ⚡  I'm running uphill faster than Usain Bolt
 
 ### Skills
 
