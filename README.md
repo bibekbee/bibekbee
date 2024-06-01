@@ -7,7 +7,7 @@ Software Engineer
 I am a programming fanatic who loves to explore new ways of thinking and creative problem-solving. I started programming in 2021 and have learned a great deal since then but still learning. Hope to be a Data Scientist someday.
 
 * 🌍  I'm based in Kathmandu
-* 🖥️  See my portfolio at [MyPortfolio](http://https://texvnx.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://texvnx.netlify.app/)
 * ✉️  You can contact me at [Bibekbee72@gmail.com](mailto:Bibekbee72@gmail.com)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on Anything Data Science related
